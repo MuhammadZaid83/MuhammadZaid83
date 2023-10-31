@@ -22,14 +22,11 @@ HTML CSS3 JavaScript Typescript
 
 - 📫 How to reach me
 - Email
--
--   zaidgoraya018@gmail.com
+- zaidgoraya018@gmail.com
 - Linkden
--
--   https://www.linkedin.com/in/zaid-goraya-24306925b/
+- https://www.linkedin.com/in/zaid-goraya-24306925b/
 - Behance
--
--  https://www.behance.net/muahmmadzaidzs
+- https://www.behance.net/muahmmadzaidzs
 
 <!---
 MuhammadZaid83/MuhammadZaid83 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
