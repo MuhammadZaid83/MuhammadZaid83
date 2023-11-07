@@ -20,14 +20,6 @@ HTML CSS3 JavaScript Typescript
  
   Visual Studio Code
 
-- 📫 How to reach me
-- Email
-- zaidgoraya018@gmail.com
-- Linkden
-- https://www.linkedin.com/in/zaid-goraya-24306925b/
-- Behance
-- https://www.behance.net/muahmmadzaidzs
-
 <!---
 MuhammadZaid83/MuhammadZaid83 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
